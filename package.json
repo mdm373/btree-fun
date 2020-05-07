@@ -1,0 +1,11 @@
+{
+  "name": "btree-fun",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mdm373/btree-fun.git",
+  "author": "Mark Mayer <mdm373@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "example": "node ./.dist/index"
+  }
+}

@@ -6,8 +6,6 @@
 
 `yarn install`
 
-## Scripts
+## Running
 
-- `yarn run lint`
-- `yarn run example`
-- `yarn run example:dev` (in parallel with `tsc -w`)
+`yarn run command:serve`
